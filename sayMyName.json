@@ -1,0 +1,6 @@
+>>> cat -e .author.json
+{
+    "firstname" : "Majdi",
+    "lastname" : "Toumi",
+}
+$
