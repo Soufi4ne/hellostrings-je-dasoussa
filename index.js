@@ -1,1 +1,4 @@
-console.log("Hello")
+const str = 'Chopper';
+
+console.log(str.length);
+
